@@ -1,3 +1,8 @@
+About
+-----
+
+This is a fork of https://github.com/rstacruz/sparkup and modified for vim so that it can be used with https://github.com/sriprasanna/janus
+
 Installation
 ------------
 
